@@ -2,7 +2,7 @@
 # CASE - LINEAR REGRESSION
 Using a house database, create an algorithm that uses linear regression to calculate whether a specific house is below or above the market.
 
-**Database:**
+**Dataset: USAHousing**
   - Avg. Area Income
   - Avg. Area House Age
   - Avg. Area Number of Rooms
@@ -10,3 +10,8 @@ Using a house database, create an algorithm that uses linear regression to calcu
   - Area Population
   - Price
   - Address
+
+# Libraries
+- pandas
+- seaborn
+- sklearn
