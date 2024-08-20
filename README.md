@@ -1,4 +1,4 @@
-# DNC_LinearRegression_1
+# PricePredicting_LinearRegression_Python_DNC
 # CASE - LINEAR REGRESSION
 Using a house database, create an algorithm that uses linear regression to calculate whether a specific house is below or above the market.
 
